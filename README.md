@@ -31,3 +31,6 @@ To suggest:
 2. Record user's character, context, daily activities
 3. Suggest suited goal of life to users who still don't find their goal
 4. Suggest suited activities to users who have already found their goal
+
+## Why do
+Many people die without understanding their unique characteristics, and without showing maximum performance because of their context. I think that's a huge loss for humanity. No one loves loss without benefit. That's why I want to complete this project.
