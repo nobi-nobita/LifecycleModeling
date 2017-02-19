@@ -33,4 +33,4 @@ To suggest:
 4. Suggest suited activities to users who have already found their goal
 
 ## Why do
-Many people die without understanding their unique characteristics, and without showing maximum performance because of their context. I think that's a huge loss for humanity. No one loves loss without benefit. That's why I want to complete this project.
+Only few people take the best way in their life. Many people die without understanding their unique characteristics, and without showing maximum performance because of their context. I think that's a huge loss for humanity. No one loves loss without benefit. That's why I want to complete this project.
